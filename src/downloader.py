@@ -74,4 +74,4 @@ for url_range in range(1,15):
                 path = os.path.join(comicdir,filename)
                 with open (path,"wb") as data:
                     data.write(img_data)
-print("Completed Download of Comic :"+comicname)
+	print("Completed Download of Comic :"+comicname)
