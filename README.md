@@ -5,7 +5,7 @@ Downloads all the comics from theoatmeal.com/comics <br/><br/>
 Steps to run:<br/>
 1. python -m pip install bs4 urllib <br/>
 2. cd src <br/>
-3. python downloader.py <br/> <br/>
+3. python downloader.py  // (oatmeal.py or 9gag.py) <br/> <br/>
 
 Update : Added 9gag downloader for hot and trending page. <br/>
 Downloads images and gifs from 9gag's trending and hot page.<br/>
